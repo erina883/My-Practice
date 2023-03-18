@@ -4,9 +4,7 @@ pluginManagement {
         google()
         mavenCentral()
 
-        maven {
-            url ("https://jcenter.bintray.com")
-        }
+
     }
 }
 dependencyResolutionManagement {
@@ -15,9 +13,7 @@ dependencyResolutionManagement {
         google()
         mavenCentral()
 
-        maven {
-            url ("https://jcenter.bintray.com")
-        }
+        
 
     }
 }
