@@ -10,13 +10,6 @@
 
 
 
-    <androidx.recyclerview.widget.RecyclerView
-        android:id="@+id/nameRCV"
-        tools:listitem="@layout/item_name"
-        app:spanCount="2"
-        app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"/>
 
 
 
