@@ -9,7 +9,13 @@
 
 
 
-
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/nameRCV"
+        tools:listitem="@layout/item_celeb"
+        app:spanCount="2"
+        app:layoutManager="androidx.recyclerview.widget.GridLayoutManager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
 
 
 
